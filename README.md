@@ -94,7 +94,7 @@ Well explained in the videos.
   - For each, Implementation 70% + Performance 30%
 
 2. Implementation 
-  - If you fail to implement or lose accuracy due to logical error in your code, you may not get the whole points on this.
+  - If you fail to implement or lose accuracy due to logical error in your code, you may not get the whole points.
   - We accept small amount of accuracy loss by zero-skipping or quantization.
 
 3. Performance 
