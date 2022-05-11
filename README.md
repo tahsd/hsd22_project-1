@@ -17,7 +17,9 @@ We will not accept any delayed submission.
 ---
 
 ## Optimizing your work
-We suggest three different ways to optimize your work: **Quantization**, **Zero-Skipping**, and **DMA**(Direct Memory Access).  
+We suggest three different ways to optimize your work: **Quantization**, **Zero-Skipping**, and **DMA**(Direct Memory Access). 
+Relevant materials will be uploaded on eTL soon. 
+
 
 |              | Videos |  Files  |
 |--------------|--------|---------|
@@ -106,4 +108,4 @@ Well explained in the videos.
 
 
 ---
-**Please use the Q&A board on ETL if you have questions or want more information about the project.**
+**Please use the Q&A board on eTL if you have questions or want more information about the project.**
