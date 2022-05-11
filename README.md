@@ -10,8 +10,8 @@ Keep your eyes on updates as there may be some changes in specification / scorin
 ---
 
 ## Due date
-Due for Baseline : 8th June
-Due for Opimizations : 11st June 
+Due for Baseline : 8th June  
+Due for Opimizations : 11st June  
 We will not accept any delayed submission.
 
 ---
