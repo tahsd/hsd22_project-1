@@ -1,7 +1,7 @@
 # Final Project 
 This is the official manual for your final project.  
 Please follow the guidelines below.   
-Keep your eyes on updates as there may be some changes in specification / scoring criteria in future.
+Keep your eyes on updates as there may be some changes in specification / scoring policy in future.
 
 ---
 ## Updates 
@@ -89,7 +89,7 @@ You are not bound to this approach for optimizing baseline. That means, you can 
 5. Latency of your floating point MAC must be set as 16 cycles.
 
 ---
-## Scoring Criteria
+## Scoring Policy
 Well explained in the videos.
 
 1. Baseline 70% + Optimizations 30% (10% for each)
